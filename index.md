@@ -16,8 +16,10 @@ description: Lock picking, physical security and new bypass methods
 </ul>
 </div>
 
+<!--
 <div class="span6">
   <h3>Contact</h3>
   <!--{{ page.contact }}-->
   <p><a class="btn" href="/contact/#email">Email »</a></p>
 </div>
+-->
